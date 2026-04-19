@@ -68,6 +68,16 @@ Power BI Dashboard
 <img width="332" height="269" alt="Regional sales" src="https://github.com/user-attachments/assets/097cae09-6e51-4ddb-8f43-57118e88c5f8" /><br>
 
 ---
+
+📈 _Skills Demonstrated_
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Dashboard Design
+- Python Programming
+
+--
+
 🚀 _Conclusion_
 
 This project demonstrates end-to-end data analysis from data cleaning to visualization across multiple tools.
